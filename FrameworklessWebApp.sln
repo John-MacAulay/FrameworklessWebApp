@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworklessWebApp", "FrameworklessWebApp\FrameworklessWebApp.csproj", "{2803454C-A9E2-4DAD-B9D2-E49AD2E9048E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworklessWebAppTests", "FrameworklessWebAppTests\FrameworklessWebAppTests.csproj", "{355CE34D-DFA5-4A78-86D7-B759FA1168A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2803454C-A9E2-4DAD-B9D2-E49AD2E9048E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2803454C-A9E2-4DAD-B9D2-E49AD2E9048E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2803454C-A9E2-4DAD-B9D2-E49AD2E9048E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2803454C-A9E2-4DAD-B9D2-E49AD2E9048E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355CE34D-DFA5-4A78-86D7-B759FA1168A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355CE34D-DFA5-4A78-86D7-B759FA1168A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355CE34D-DFA5-4A78-86D7-B759FA1168A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355CE34D-DFA5-4A78-86D7-B759FA1168A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
